@@ -12,6 +12,9 @@
 -- See the License for the specific language governing permissions and
 -- limitations under the License.
 
+-- I do not claim that this is any work of my own, I simply took pieces and parts from other working drivers and assembled them here - CyberFreek
+  
+
 local capabilities = require "st.capabilities"
 local zcl_clusters = require "st.zigbee.zcl.clusters"
 local window_shade_defaults = require "st.zigbee.defaults.windowShade_defaults"
