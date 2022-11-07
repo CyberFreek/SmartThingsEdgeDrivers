@@ -21,7 +21,7 @@ This was GOLD. I could now connect them to SmartThings.
 
 Unfortunately, this was not the end of my journey. I discovered an issue with the default SmartThings Edge driver when the shade motor is reversed. Ugh.
 
-Basically, my blinds opened when I clicked close and closed when I clicked open - EVERYTHING was reversed. 
+Basically, my shades opened when I clicked close and closed when I clicked open - EVERYTHING was reversed. 
 To my surprise, they said NOTHING about this issue on their website. I didn't see it in the reviews either (which I will be fixing).
 
 I contacted their customer support and was told the following:
