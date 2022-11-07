@@ -1,7 +1,7 @@
 # SmartThingsEdgeDrivers
 
 If you don't want to read about my drama and just want the Edge driver for the Graywind Zigbee ZF31 motors, you can just click this link and install the driver: 
-https://callaway.smartthings.com/channels/97b9dabe-1393-47dd-9507-5182685e2afa
+https://bestow-regional.api.smartthings.com/invite/r3MyLdaxOPjp
 
 I recently spent $800 on two sets of Smart Shades from Graywind (https://www.graywindblinds.com/) and while the quality was good, their website isn't the most forthcoming when it comes to useful information. I originally ordered the AC32 hardwired Wi-Fi motors thinking they would support SmartThings since they have SmartThings plastered all over their site. After receiving them and trying to get them connected, I was told that I was wrong and needed to order a different motor for an additional $70. I was grateful that they allowed me to do this.
 
@@ -38,4 +38,4 @@ Their printed instructions were nearly impossible to understand, but Zoe was abl
 
 Anyway, if you learned the hard way of this issue and took to Google for help you are in luck! Just Install this driver and solve your problem once and for all.
 
-https://callaway.smartthings.com/channels/97b9dabe-1393-47dd-9507-5182685e2afa
+https://bestow-regional.api.smartthings.com/invite/r3MyLdaxOPjp
