@@ -1,0 +1,4 @@
+name: 'Graywind Zigbee Window Shade v2.1'
+packageKey: 'graywind-zigbee-window-shade-reverse'
+permissions:
+  zigbee: {}

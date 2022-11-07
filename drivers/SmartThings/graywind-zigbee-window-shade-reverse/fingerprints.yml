@@ -1,0 +1,25 @@
+zigbeeManufacturer:
+  - id: "Yookee/D10110"
+    deviceLabel: Yookee Window Treatment
+    manufacturer: Yookee
+    model: D10110
+    deviceProfileName: window-treatment-battery
+  - id: "yooksmart/D10110"
+    deviceLabel: yooksmart Window Treatment
+    manufacturer: yooksmart
+    model: D10110
+    deviceProfileName: window-treatment-battery
+zigbeeGeneric:
+  - id: "genericShade"
+    deviceLabel: Zigbee Window Treatment
+    clusters:
+      server:
+        - 0x0102 #Window Covering
+    deviceProfileName: window-treatment-profile
+  - id: "genericShade-battery"
+    deviceLabel: Zigbee Window Treatment
+    clusters:
+      server:
+        - 0x0102 #Window Covering
+        - 0x0001 #Power Configuration
+    deviceProfileName: window-treatment-battery
