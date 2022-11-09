@@ -1,0 +1,4 @@
+name: 'Z-Wave Switch v1.0'
+packageKey: 'zwave-switch-upd'
+permissions:
+  zwave: {}

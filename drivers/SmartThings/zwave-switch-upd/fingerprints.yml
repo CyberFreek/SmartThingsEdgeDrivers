@@ -1,0 +1,7 @@
+zwaveManufacturer:
+  - id: 001D/1805/0334
+    deviceLabel: Leviton Outlet
+    manufacturerId: 0x001D
+    productType: 0x1805
+    productId: 0x0334
+    deviceProfileName: smartplug-binary
